@@ -134,11 +134,16 @@ a{
 .plavan {
 	line-height: 41px;
 	background-image: url(images/nav1n.png);
-	}
-.plavas {
+}
+.plavas1 {
 	line-height: 41px;
-	background-image: url(images/nav1s.png);
-	}
+	background-image: url(images/nav1s1.png);
+}
+}
+.plavas2 {
+	line-height: 41px;
+	background-image: url(images/nav1s2.png);
+}
 .zelena {
 	line-height: 43px;
 	background-image: url(images/nav6.png);
